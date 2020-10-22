@@ -979,7 +979,7 @@
               "format": "time_series",
               "interval": "",
               "intervalFactor": 1,
-              "legendFormat": "",
+              "legendFormat": "{{operation}}",
               "refId": "A"
             }
           ],
@@ -1755,7 +1755,7 @@
               "format": "time_series",
               "interval": "",
               "intervalFactor": 1,
-              "legendFormat": "",
+              "legendFormat": "{{operation}}",
               "refId": "A"
             }
           ],
